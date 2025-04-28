@@ -56,8 +56,4 @@ The dataset (`train.csv`) is sourced from [Kaggle's Titanic dataset](https://www
 - **Survival by Sex**: Females had a significantly higher survival rate, consistent with "women and children first."
 - **Survival by Embarked**: Cherbourg passengers had the highest survival rate, possibly due to more first-class passengers.
 
-## Setup and Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/titanic-eda.git
-   cd titanic-eda
+
